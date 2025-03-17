@@ -6,4 +6,4 @@ Get-Command Get-Process
 #example: Get-Command Add-AppPackage
 Stop-Process -id 7632
 Get-Service 
-stop-service "camsvc"
+#stop-service "camsvc"

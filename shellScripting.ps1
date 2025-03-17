@@ -2,7 +2,7 @@
 $var = "value"
 $var #print
 Write-Host $var #display
-
+$age = Read-Host "Enter age:"
 
 
 #if conditional script
